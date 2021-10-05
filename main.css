@@ -17,7 +17,7 @@ body {
 	display: grid;
 	grid-template-columns: 480px 1fr;
 	grid-gap: 32px;
-	backdrop-filter: blur(12px) contrast(80%);
+	backdrop-filter: blur(15px) contrast(80%);
 	color: white;
 }
 
